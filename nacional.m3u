@@ -616,7 +616,7 @@ https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/8ff2aa6ecce01f17952af1cdc9858919.png" group-title="PCIA BS AS", TeleJunin
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/8ff2aa6ecce01f17952af1cdc9858919.png" group-title="PCIA BS AS", Marchi TV
+#EXTINF:-1 tvg-logo="" group-title="PCIA BS AS", Marchi TV
 https://panel.dattalive.com/8102/8102/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-dbAKPzkg4RO4mcpw8700bO3IRFFltD7jl5m4ddaYVgSekuEADou1OEgzyQ1ody_QU4&usqp=CAU" group-title="PCIA BS AS", AlternaTV
@@ -891,7 +891,7 @@ https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="CORDOBA", CANAL 10 CORDOBA
-https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="CORDOBA", CANAL U CORDOBA
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
