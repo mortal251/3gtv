@@ -2112,7 +2112,7 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYg69MJEVYNIc1_LNL_DMPbOF6cf4aBWVZdv_hu=s176-c-k-c0x00ffffff-no-rj" group-title="SANTIAGO DEL ESTERO", RDM SANTIAGO DEL ESTERO
 https://panel.dattalive.com/8004/8004/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYg69MJEVYNIc1_LNL_DMPbOF6cf4aBWVZdv_hu=s176-c-k-c0x00ffffff-no-rj" group-title="SANTIAGO DEL ESTERO", LIVING TV SANTIAGO DEL ESTERO
+#EXTINF:-1 tvg-logo="http://rdmsantiago.com.ar/tv/wp-content/uploads/2023/08/LIVING-TV-1024x376.png" group-title="SANTIAGO DEL ESTERO", LIVING TV SANTIAGO DEL ESTERO
 https://panel.dattalive.com/8166/8166/playlist.m3u8
 
 
