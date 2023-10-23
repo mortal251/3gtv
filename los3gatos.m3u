@@ -1791,21 +1791,19 @@ https://ythlsgo.onrender.com/channel/UCMy706Rhe2swaTmljCgiYVg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Elonce_TV_Salta.png/640px-Elonce_TV_Salta.png" group-title="SALTA", EL ONCE TV SALTA
 https://ythlsgo.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4uuTlgBxIrI/T-8fuime0xI/AAAAAAAAAu0/az3W_0QE8Aw/s1600/canal2.jpg" group-title="SALTA", CANAL 2 SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="SALTA", CANAL 7 SALTA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/462168942698446848/aD89IHFa_400x400.png" group-title="SALTA", CANAL 7 SALTA
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856175574116683777/HnWIt3t9_400x400.jpg" group-title="SALTA", MILENIUM TV SALTA
 https://stmv5.livecastv.com/milleniumtv/milleniumtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E_k6h1uVYe8/YHscpANLtMI/AAAAAAABBpM/x5nyrtk-tdMKfI9neaRMx8d0rXhI0DgYACK8BGAsYHg/s512/2021-04-17.jpg" group-title="SALTA", CANAL 10 NORTEVISION
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/Desert%20-%20copia.jpg?itok=IPKMGdSN" group-title="SALTA", CANAL 10 NORTEVISION
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="SALTA", MULTIVISION SALTA
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4KefEkBSbET6Imw1iLMrMd70mG4LP_5b6faSohDm6eKUipnx_ApRrQXAPMaLguA0eoI" group-title="SALTA", MULTIVISION SALTA
 https://panel.dattalive.com/8250/8250/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1460346406993108995/2RunknLb_400x400.jpg" group-title="SALTA", 10 DE SALTA
