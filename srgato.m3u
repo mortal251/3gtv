@@ -1805,9 +1805,6 @@ https://restreamer.el10tv.com/memfs/9995fb1d-a1a2-4303-b368-5b6e751f8ce5.m3u8?se
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xOkdlwpIeM1Do72p9sEkUjRGc83UJCAQA2bwBCvJak9h012FISHmUaJ2vp9Z4W1i6g=s180" group-title="SALTA", NEOX TV SALTA
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPOJ9eEOPcALj1GcLL9pl1jsnpPiyq40VS0emqarg=s176-c-k-c0x00ffffff-no-rj" group-title="SALTA", CANAL 18 DE SALTA
-https://videostream.shockmedia.com.ar:19360/canalglobaltv/canalglobaltv.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.mosconitv.com.ar/template/img/logo/logo_header.svg" group-title="SALTA", MOSCONI TV
 https://panel.dattalive.com/8126/8126/playlist.m3u8
 
