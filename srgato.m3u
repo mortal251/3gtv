@@ -1128,8 +1128,7 @@ https://corsproxy.io/?http://heroem3u.ultimatefreehost.in/youtube/UCdt3k263GKb3U
 
 
 
-#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0237
+
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
 https://corsproxy.io/?http://heroem3u.ultimatefreehost.in/youtube/UC3OQ66wEJaOPHK25IBdWR_g/index.m3u8
@@ -1875,9 +1874,6 @@ https://canalsj.kozow.com/canal40/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjOAZXFvw3QHIRbNR0ASUCjpGcP_7jbvopg&usqp=CAU" group-title="SAN JUAN", BLU HD SAN JUAN
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--XAMA.png" group-title="SAN JUAN", XAMA UNSJ
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0369
-
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="SAN JUAN", FM LIGHT 97.3 SAN JUAN
 https://videostream.shockmedia.com.ar:19360/lightfm/lightfm.m3u8
 
@@ -1957,14 +1953,10 @@ https://corsproxy.io/?http://heroem3u.ultimatefreehost.in/youtube/UCI_zuiftc7tc2
 
 
 
-#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0395
+
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
 https://corsproxy.io/?http://heroem3u.ultimatefreehost.in/youtube/UCPr0HEFKN8wtDIfcPsVB10Q/index.m3u8
-
-#EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0403
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO 
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8aobf1/index.m3u8
