@@ -45,6 +45,9 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="TDA", C5N 25.2
 https://corsproxy.io/?http://heroem3u.ultimatefreehost.in/youtube/UCFgk2Q2mVO1BklRQhSv6p0w/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="TDA", C5N 25.2
+https://raw.githubusercontent.com/mortal251/archivos_m3u8/main/c5n.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="TDA", LA NACION + 25.3
 https://corsproxy.io/?http://heroem3u.ultimatefreehost.in/youtube/UCba3hpU7EFBSk817y9qZkiA/index.m3u8
 
