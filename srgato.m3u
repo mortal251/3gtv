@@ -135,7 +135,7 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://corsproxy.io/?http://heroem3u.ultimatefreehost.in/youtube/@elnueveVIVO/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", CANAL 9  35.1 
-https://corsproxy.io/?http://heroem3u.ultimatefreehost.in/youtube/@elnueveVIVO/index.m3u8
+https://raw.githubusercontent.com/mortal251/archivos_m3u8/main/elnueve.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8   
