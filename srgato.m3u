@@ -7,7 +7,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 https://raw.githubusercontent.com/mortal251/archivos_m3u8/main/encuentro.m3u8
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="TDA", PAKA PAKA  22.2
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
+https://raw.githubusercontent.com/mortal251/archivos_m3u8/main/pakapaka.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" group-title="TDA", AUNAR  22.3
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
