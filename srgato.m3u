@@ -4,7 +4,7 @@
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/encuentro.png" group-title="TDA", CANAL ENCUENTRO 22.1
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+https://raw.githubusercontent.com/mortal251/archivos_m3u8/main/encuentro.m3u8
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="TDA", PAKA PAKA  22.2
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
@@ -41,9 +41,6 @@ https://corsproxy.io/?http://heroem3u.ultimatefreehost.in/youtube/UCgOvQwLB387CW
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/unife.png" group-title="TDA", UNIFE  25.1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8?p=79&s=1694000298&e=1694000418&h=39bea3dca2e5ba6c6e0fcda0b14067b8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="TDA", C5N 25.2
-https://corsproxy.io/?http://heroem3u.ultimatefreehost.in/youtube/UCFgk2Q2mVO1BklRQhSv6p0w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="TDA", C5N 25.2
 https://raw.githubusercontent.com/mortal251/archivos_m3u8/main/c5n.m3u8
