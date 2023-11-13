@@ -87,8 +87,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tribunoweb.com.ar/wp-content/uploads/2021/05/pluto-tv-telefe-tvlaint.jpg" group-title="DEPORTES ARG", TELEFE DEPORTES
 https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
 
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="DEPORTES ARG", GARAGE TV
-https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVw5PciKjB7GzFU383j_dYfN9aVHaBDxGw4vO1imw=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTES ARG", Carburando
+https://corsproxy.io/?http://heroem3u.ultimatefreehost.in/youtube/UCVHQZIlc766KbxpKQK1on6Q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tycsports.com/files/2020/11/12/138170/uno-contra-uno_862x485.jpg" group-title="DEPORTES ARG", UNO CONTRA UNO TV
 https://corsproxy.io/?http://heroem3u.ultimatefreehost.in/youtube/UCavPXO6_Z2cVjT9OVguwXmg/index.m3u8
