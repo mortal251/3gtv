@@ -4,13 +4,13 @@
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/encuentro.png" group-title="TDA", CANAL ENCUENTRO 22.1
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="TDA", PAKA PAKA  22.2
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" group-title="TDA", AUNAR  22.3
-https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
+https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="TDA", CINEAR  22.4
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8 
@@ -480,6 +480,9 @@ https://inliveserver.com:1936/14056/14056/chunklist_w900525224.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="AMBA", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYvkFgl3ndm_Df9p5koqJKse_4px08EdEFmDhWx-rM=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", QUANTICA  16.3
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFIVETV.png" group-title="AMBA", FIVE TV  16.1
 https://panel.dattalive.com/8118/8118/playlist.m3u8
