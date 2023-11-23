@@ -471,14 +471,11 @@ https://stmvideo2.livecastv.com/zonagospel/zonagospel/playlist.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" group-title="AMBA", Urbana TeVe 32.2
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="AMBA", GEN TV 15.2
-https://inliveserver.com:1936/14056/14056/chunklist_w900525224.m3u8
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="AMBA", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -490,7 +487,7 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 https://panel.dattalive.com/8118/8118/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/1026-tele-mix_orig.png" group-title="AMBA", TELE MIX CANAL 50 GLEW
-https://panel.dattalive.com:443/8068/8068/playlist.m3u8
+https://panel.dattalive.com/8068/8068/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="AMBA", CINCO TV TIGRE  30.1
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
@@ -587,7 +584,6 @@ https://ythls.armelin.one/channel/UClFaWD8mSP7Chyk2tXz29PQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWssSiiv5-VNemX1EZVnTNJd8J1HvdTlbFFxOgw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Radio Caput
 https://ythls.armelin.one/channel/UCSNEUHaJ2fg7EA0qxweuTxg.m3u8
-
 
 
 
