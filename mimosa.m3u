@@ -117,7 +117,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/encuentro.png" group-title="NACIONALES", CANAL ENCUENTRO 22.1
-https://comodoro.cdn.rcs.net.ar/mnp/encuentro/output.mpd
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png", CANAL DE LA CIUDAD
 https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
@@ -198,7 +198,7 @@ https://ythls.armelin.one/channel/UCbxnq2sKBgDl5poaKrUSs_Q.m3u8
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
-http://200.115.193.177:80/live/26hd-720/chunklist_w1196091674.m3u8
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD  24.4 
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
