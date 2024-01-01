@@ -116,11 +116,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", IP NOTICIAS 24.5
-https://ythls.armelin.one/channel/UCbxnq2sKBgDl5poaKrUSs_Q.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", IP NOTICIAS 24.5
-https://ythls.armelin.one/channel/UCbxnq2sKBgDl5poaKrUSs_Q.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
@@ -993,8 +989,7 @@ https://ythls.armelin.one/channel/UCdt3k263GKb3Ua6tCMaQEVg.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0239
+
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
 https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
@@ -1778,9 +1773,6 @@ https://canalsj.kozow.com/canal40/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjOAZXFvw3QHIRbNR0ASUCjpGcP_7jbvopg&usqp=CAU" group-title="SAN JUAN", BLU HD SAN JUAN
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--XAMA.png" group-title="SAN JUAN", XAMA UNSJ
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0377
-
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="SAN JUAN", FM LIGHT 97.3 SAN JUAN
 https://videostream.shockmedia.com.ar:19360/lightfm/lightfm.m3u8
 
@@ -1857,14 +1849,10 @@ https://ythls.armelin.one/channel/UCI_zuiftc7tc2A4HGEEYRGg.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0403   
+ 
 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
 https://ythls.armelin.one/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
-
-#EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1669538372061208579/Wibfqd9H_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0412
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO
 https://raw.githubusercontent.com/mortal251/archivos_m3u8/main/eltresrosario.m3u8
