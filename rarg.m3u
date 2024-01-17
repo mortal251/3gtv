@@ -101,6 +101,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="CD Cd Aut Bs As",TN Todo Noticias YT - CTV - CABA TV Cable - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0051
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TYC.png" group-title="CD Cd Aut Bs As",TyC Sports- CTV - CABA TV Cable - CD Cd Aut Bs As
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--TNTS.png" group-title="CD Cd Aut Bs As",TNT Sport - CTV - CABA TV Cable - CD Cd Aut Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="CD Cd Aut Bs As",Viajar - CTV - CABA TV Cable - CD Cd Aut Bs As
