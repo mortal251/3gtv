@@ -664,6 +664,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0328
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0329
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LW82.png" group-title="SA Salta",LW82 El Once TV - 31.1TV - Salta  TV - SA Salta
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0330
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LW82.png" group-title="SA Salta",LW82 El Once TV - 31.1TV - Salta  TV - SA Salta
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Telefe_Salta)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI9SALTA.png" group-title="SA Salta",Multivisión 9 - 35.1TV - Salta  TV - SA Salta
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0331
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELE10.png" group-title="SA Salta",Tele 10 - 35.2TV - Salta  TV - SA Salta
@@ -758,6 +760,8 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0375
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0376
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT83.png" group-title="ST Santa Fe",LT83 El Tres - 32.1TV - Rosario  TV - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0377
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT83.png" group-title="ST Santa Fe",LT83 El Tres - 32.1TV - Rosario  TV - ST Santa Fe
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Canal_3_Rosario)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT84.png" group-title="ST Santa Fe",LT84 Canal 5 - 38.1TV - Rosario  TV - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0378
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRM707.png" group-title="ST Santa Fe",LRM707 Cadena 2000 - 106.1 TV - San Guillermo - ST Santa Fe
