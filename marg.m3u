@@ -21,7 +21,7 @@ https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://cdn.m3u.cl/logo/1006_Neo_TV.png", Neo TV ✪ | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="218" tvg-name="Señal Urbana" tvg-logo="https://cdn.m3u.cl/logo/218_Senal_Urbana.png", Señal Urbana ✪ | AR
-https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8?PlaylistM3UCL
+https://video.fiberfly.com.ar/stream/hls1/110106.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1026" tvg-name="Tele Mix" tvg-logo="https://cdn.m3u.cl/logo/1026_Tele_Mix.png", Tele Mix ✪ | AR
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1010" tvg-name="UNaM Transmedia" tvg-logo="https://cdn.m3u.cl/logo/1010_UNaM_Transmedia.png", UNaM Transmedia ✪ | AR
@@ -32,8 +32,6 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV ✪ | CL
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://cdn.m3u.cl/logo/1_Rewind_Radio_y_TV.png", Rewind Radio y TV ✪ | CL
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="847" tvg-name="Tango TV" tvg-logo="https://cdn.m3u.cl/logo/847_Tango_TV.png", Tango TV ✪ | AR
 https://video.misistemareseller.com/8118/8118/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="916" tvg-name="Sex TV" tvg-logo="https://cdn.m3u.cl/logo/916_Sex_TV.png", Sex TV | AR
@@ -54,6 +52,8 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?Playlis
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="222" tvg-name="Acequia" tvg-logo="https://cdn.m3u.cl/logo/222_Acequia.png", Acequia | AR
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1562" tvg-name="Agenda Necochense" tvg-logo="https://cdn.m3u.cl/logo/1562_Agenda_Necochense.png", Agenda Necochense | AR
+https://stmvideo1.livecastv.com/agendaagenda/agendaagenda/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="252" tvg-name="Aire de Santa Fe" tvg-logo="https://cdn.m3u.cl/logo/252_Aire_de_Santa_Fe.png", Aire de Santa Fe | AR
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://cdn.m3u.cl/logo/214_America_Tucuman.png", America Tucuman | AR
@@ -203,7 +203,7 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1353" tvg-name="Ciudad TV Resistencia" tvg-logo="https://cdn.m3u.cl/logo/1353_Ciudad_TV_Resistencia.png", Ciudad TV Resistencia | AR
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1387" tvg-name="CMT" tvg-logo="https://cdn.m3u.cl/logo/1387_CMT.png", CMT | AR
-https://stream.wifiexpert.cl/ZappixMedia/CMT_Argentina/playlist.m3u8?PlaylistM3UCL
+https://cablemor.andremor.dev/live/CMT_Argentina/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="270" tvg-name="CN 24/7 Neuquen" tvg-logo="https://cdn.m3u.cl/logo/270_CN_24_7_Neuquen.png", CN 24/7 Neuquen | AR
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1237" tvg-name="Corrientes TV" tvg-logo="https://cdn.m3u.cl/logo/1237_Corrientes_TV.png", Corrientes TV | AR
@@ -246,6 +246,8 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1360" tvg-name="Ingenio FM" tvg-logo="https://cdn.m3u.cl/logo/1360_Ingenio_FM.png", Ingenio FM | AR
 https://panel.dattalive.com/8064/8064/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1561" tvg-name="Junto Al Campo" tvg-logo="https://cdn.m3u.cl/logo/1561_Junto_Al_Campo.png", Junto Al Campo | AR
+https://stmv5.livecastv.com/juntoalcampo/juntoalcampo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1470" tvg-name="La 100" tvg-logo="https://cdn.m3u.cl/logo/1470_La_100.png", La 100 | AR
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1361" tvg-name="La Nacion+" tvg-logo="https://cdn.m3u.cl/logo/1361_La_Nacion_.png", La Nacion+ | AR
@@ -280,6 +282,8 @@ https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UC
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="284" tvg-name="Multivisión" tvg-logo="https://cdn.m3u.cl/logo/284_Multivision.png", Multivisión | AR
 https://panel.dattalive.com/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1558" tvg-name="Neo Net Music" tvg-logo="https://cdn.m3u.cl/logo/1558_Neo_Net_Music.png", Neo Net Music | AR
+https://panel.dattalive.com/8174/8174/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1363" tvg-name="Neox TV" tvg-logo="https://cdn.m3u.cl/logo/1363_Neox_TV.png", Neox TV | AR
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://cdn.m3u.cl/logo/285_Net_TV.png", Net TV | AR
@@ -436,4 +440,8 @@ https://stmvideo2.livecastv.com/zonagospel/zonagospel/playlist.m3u8?PlaylistM3UC
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1003" tvg-name="Sublime Gracia TV" tvg-logo="https://cdn.m3u.cl/logo/1003_Sublime_Gracia_TV.png", Sublime Gracia TV | AR
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-id="184" tvg-name="Television Celestial" tvg-logo="https://cdn.m3u.cl/logo/184_Television_Celestial.png", Television Celestial | AR
+https://vsrv1.az-streamingserver.com:3356/live/televisioncelestiallive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://cdn.m3u.cl/logo/1058_Spectrum_Channel.jpg", Spectrum Channel | CL
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
