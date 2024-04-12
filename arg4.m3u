@@ -1,21 +1,23 @@
 #EXTM3U  
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", LUZU TV
-https://ythlsgo.onrender.com/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LUZU TV
+https://ythls-v2.onrender.com/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmuHJyHhk-9k_1TA_dQaatREbbQe9yxNas7DOfnlyTOq_eWaBNs3mdVckgLOIc5T7LI5gNpw=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Neura Media
-https://ythlsgo.onrender.com/channel/UC-40U87JsevMIMn7PMw4jPw.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cz7jeL0VIqd7P4jfb-6G9zFvoitju6SeHcf2cCcuUr-NH6lvPYjjp9iEYhAdC72jSzDK4zWf=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Neura Media
+https://ythls-v2.onrender.com/channel/UC-40U87JsevMIMn7PMw4jPw.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fFQhXC5i5_BqbrkaWhpHPENuEvWk4rXuuxgPM15cUQrBkjIqJrFfIzPgOvwznvWhfoMHrEHxYnQ=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", OLGA
-https://ythlsgo.onrender.com/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fFQhXC5i5_BqbrkaWhpHPENuEvWk4rXuuxgPM15cUQrBkjIqJrFfIzPgOvwznvWhfoMHrEHxYnQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", OLGA
+https://ythls-v2.onrender.com/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1VknAt8iHQ2sB1IiWbXeM5W-MLTB8wWdr09_FHOi7y80kXTUX6_-U3Z9YRHWYOjSMa-5jAfaZg=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", GELATINA
-https://ythlsgo.onrender.com/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_5u1Wy5sDRxQluh1vPLBF92iQm9XYlH7Ml73MZ3HI-2OuEEGwlkVjAWZD5L1EkW3B6CS-BXYpA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", GELATINA
+https://ythls-v2.onrender.com/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tNk5aGsfWku7B7cHjRijNh7jtlxDzwYTXJLPCeAvw-n-dVxzOQ4IHSEv5Axd7mb2AUHyT9FKrBU=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", BLENDER
-https://ythlsgo.onrender.com/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tNk5aGsfWku7B7cHjRijNh7jtlxDzwYTXJLPCeAvw-n-dVxzOQ4IHSEv5Axd7mb2AUHyT9FKrBU=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", BLENDER
+https://ythls-v2.onrender.com/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_ORiwQlKFTvN2coKW0p0WHA5ebVoy7qzRhblzeZsp26ei5EOJPlHOnVz6qPuwMzf6lAWsXcfLQ=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", República Z
-https://ythlsgo.onrender.com/channel/UCmk9kjghfkM3k8I6jioDr3g.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6WAUT8ntjLXm2jr9xW5HNePAYKlTO_IrLXAC90Nn7iKYnQxr5jQ_LJUMHf--iC9AqsDQrHK7dA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", República Z
+https://ythls-v2.onrender.com/channel/UCmk9kjghfkM3k8I6jioDr3g.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ObSd5f3r6-fBE-4PVZk7wF46nB1l2jVbKE-23jJpocg6I-CjycFUyR03aQPuRNdBVOnKX9kRQA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LA CASA STREAMING 
+https://ythls-v2.onrender.com/channel/UC4u0BhsSi33PS20_1JHiC5A.m3u8
