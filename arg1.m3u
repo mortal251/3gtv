@@ -287,8 +287,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0142
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--2MDP.png" group-title="BA Buenos Aires",Canal 2 MDP - 2 TV - Mar del Plata TV - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--6MDP.png" group-title="BA Buenos Aires",Canal 6 MDP - 6 TV - Mar del Plata TV - BA Buenos Aires
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0145
+#EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="PCIA BS AS", CANAL 6 MAR DEL PLATA
+https://panel.host-live.com/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--79TV.png" group-title="BA Buenos Aires",Clima + Servicios - 69CTV - Mar del Plata TV - BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI486.png" group-title="BA Buenos Aires",LRI486 Mi8 Canal 8 - 20.1TV - Mar del Plata TV - BA Buenos Aires
