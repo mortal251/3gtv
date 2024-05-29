@@ -2,28 +2,29 @@
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LUZU TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716838360/ei/eItUZsT3A57g1sQPyvyyuAc/ip/2803%3A9800%3A9097%3A8cb8%3Af012%3A87ec%3A371a%3A22bb/id/Sgp4GXMRPKk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIwMbihG5qvt4PMk_8IKrYpFcutvCjvAftR-ktUxDXs1AiEA-i60zgIeDKJ-HJ5OaBo4JL187_d7FbkDhhJDmgfhqow%3D/file/index.m3u8
+https://ythls.armelin.one/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cz7jeL0VIqd7P4jfb-6G9zFvoitju6SeHcf2cCcuUr-NH6lvPYjjp9iEYhAdC72jSzDK4zWf=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Neura Media
 https://ythls.armelin.one/channel/UC-40U87JsevMIMn7PMw4jPw.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fFQhXC5i5_BqbrkaWhpHPENuEvWk4rXuuxgPM15cUQrBkjIqJrFfIzPgOvwznvWhfoMHrEHxYnQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", OLGA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716838474/ei/6otUZtvKGdekobIP9fqEyAY/ip/2803%3A9800%3A9097%3A8cb8%3Af012%3A87ec%3A371a%3A22bb/id/MTYA2swkOvI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWE13DADiNvVfT6_cFbS616fuy98Tl1wbQiYgBfZW11kCIBeGtQGFomfWE8xtlf5mWd0Nx4WuZJNHZLhida2RScFj/file/index.m3u8
+https://ythls.armelin.one/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_5u1Wy5sDRxQluh1vPLBF92iQm9XYlH7Ml73MZ3HI-2OuEEGwlkVjAWZD5L1EkW3B6CS-BXYpA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", GELATINA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716838570/ei/SoxUZraiItyMobIPoPa-kAs/ip/2803%3A9800%3A9097%3A8cb8%3Af012%3A87ec%3A371a%3A22bb/id/eXdrvUlxxeQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYwJbHK8b1gIn42bBX6ZjkLmhM5H0Gun-6jTq2AaXteICIDMUzoxaMkGApnb_zP6nRot4AMMXqlxUTVTB9fBmkDdz/file/index.m3u8
+https://ythls.armelin.one/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tNk5aGsfWku7B7cHjRijNh7jtlxDzwYTXJLPCeAvw-n-dVxzOQ4IHSEv5Axd7mb2AUHyT9FKrBU=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", BLENDER
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716838660/ei/pIxUZteQK8Lf1sQPvLWegAU/ip/2803%3A9800%3A9097%3A8cb8%3Af012%3A87ec%3A371a%3A22bb/id/HMEHq_CFKqc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJv211GbzLamIAdDaEdapoFc7NeXEfcn6PxAQ1ZmFU1rAiB5Hdl8DPtq8O1mIr0j5r7lRZ3zi-YZE7TGr7PRxKkO0w%3D%3D/file/index.m3u8
+https://ythls.armelin.one/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6WAUT8ntjLXm2jr9xW5HNePAYKlTO_IrLXAC90Nn7iKYnQxr5jQ_LJUMHf--iC9AqsDQrHK7dA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", República Z
 https://ythls.armelin.one/channel/UCmk9kjghfkM3k8I6jioDr3g.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ObSd5f3r6-fBE-4PVZk7wF46nB1l2jVbKE-23jJpocg6I-CjycFUyR03aQPuRNdBVOnKX9kRQA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LA CASA STREAMING 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716838787/ei/I41UZpP8OYvM-LAP7uKEoAs/ip/2803%3A9800%3A9097%3A8cb8%3Af012%3A87ec%3A371a%3A22bb/id/RuJ86SP4Zg8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYfu4gdkDHzC6CtlCNwapWLBnNZLkgsbGjuMUvwX6WPgCIQDM0ej-Wj81wfJ1BiLjFUyqlb_IhOpYvuv8L_3_QD5C4A%3D%3D/file/index.m3u8
+https://ythls.armelin.one/channel/UC4u0BhsSi33PS20_1JHiC5A.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aTw53D60RiGJHPx9mvShHRkbzK9tMQXrFIq29TXzXvnLaRm7rkMipeq01-T01pXiMJyrXaqxlOQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", AZZ
 https://ythls.armelin.one/channel/UCgLBmUFPO8JtZ1nPIBQGMlQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UEATPU2rMqerCid0coyZKs0xrv2MB7hsQy0EW2e0z1pVW9cbDrLTrluWqlI_D2UaTxhPF-TFiA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Bondi Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716838900/ei/lI1UZp7PG-n51sQPzo2YuAc/ip/2803%3A9800%3A9097%3A8cb8%3Af012%3A87ec%3A371a%3A22bb/id/9IvqczMniPE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZbq1naHSW10viRTlGjlq-kw_DgSJk6xFCjT4988YlqYCIDCgVtP11KwAERQ16_zm8qqqAjIAUaA0XwzCcg2bj04b/file/index.m3u8
+https://ythls.armelin.one/channel/UCnZidingmuqNkaT9Wm64Xxg.m3u8
