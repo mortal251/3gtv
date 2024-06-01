@@ -1,30 +1,27 @@
+
+
 #EXTM3U  
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+http://ssiptvarg.atwebpages.com/Sin%20Senal.mp4
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LUZU TV
-https://ythls.armelin.one/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", VISITA WWW
+http://ssiptvarg.atwebpages.com/Sin%20Senal.mp4
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/cz7jeL0VIqd7P4jfb-6G9zFvoitju6SeHcf2cCcuUr-NH6lvPYjjp9iEYhAdC72jSzDK4zWf=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Neura Media
-https://ythls.armelin.one/channel/UC-40U87JsevMIMn7PMw4jPw.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", .LOS3GATOSM3U
+http://ssiptvarg.atwebpages.com/Sin%20Senal.mp4
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", .WEEBLY.COM
+http://ssiptvarg.atwebpages.com/Sin%20Senal.mp4
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fFQhXC5i5_BqbrkaWhpHPENuEvWk4rXuuxgPM15cUQrBkjIqJrFfIzPgOvwznvWhfoMHrEHxYnQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", OLGA
-https://ythls.armelin.one/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", CADUCO LA LISTA
+http://ssiptvarg.atwebpages.com/Sin%20Senal.mp4
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_5u1Wy5sDRxQluh1vPLBF92iQm9XYlH7Ml73MZ3HI-2OuEEGwlkVjAWZD5L1EkW3B6CS-BXYpA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", GELATINA
-https://ythls.armelin.one/channel/UCWSfXECGo1qK_H7SXRaUSMg.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", VISITA WWW
+http://ssiptvarg.atwebpages.com/Sin%20Senal.mp4
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tNk5aGsfWku7B7cHjRijNh7jtlxDzwYTXJLPCeAvw-n-dVxzOQ4IHSEv5Axd7mb2AUHyT9FKrBU=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", BLENDER
-https://ythls.armelin.one/channel/UC6pJGaMdx5Ter_8zYbLoRgA.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", LOS3GATOSM3U
+http://ssiptvarg.atwebpages.com/Sin%20Senal.mp4
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6WAUT8ntjLXm2jr9xW5HNePAYKlTO_IrLXAC90Nn7iKYnQxr5jQ_LJUMHf--iC9AqsDQrHK7dA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", República Z
-https://ythls.armelin.one/channel/UCmk9kjghfkM3k8I6jioDr3g.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ObSd5f3r6-fBE-4PVZk7wF46nB1l2jVbKE-23jJpocg6I-CjycFUyR03aQPuRNdBVOnKX9kRQA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", LA CASA STREAMING 
-https://ythls.armelin.one/channel/UC4u0BhsSi33PS20_1JHiC5A.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aTw53D60RiGJHPx9mvShHRkbzK9tMQXrFIq29TXzXvnLaRm7rkMipeq01-T01pXiMJyrXaqxlOQ=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", AZZ
-https://ythls.armelin.one/channel/UCgLBmUFPO8JtZ1nPIBQGMlQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UEATPU2rMqerCid0coyZKs0xrv2MB7hsQy0EW2e0z1pVW9cbDrLTrluWqlI_D2UaTxhPF-TFiA=s176-c-k-c0x00ffffff-no-rj" group-title="STREAMING ARG", Bondi Live
-https://ythls.armelin.one/channel/UCnZidingmuqNkaT9Wm64Xxg.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lFsSal7QJoVyERnpM2veHFUkIAfcpenimTAlQ8fUihtpviQzlOUrO7qpTCjME7I8-1Y" group-title="AMBA", .WEEBLY.COM
+http://ssiptvarg.atwebpages.com/Sin%20Senal.mp4
