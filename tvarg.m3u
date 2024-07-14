@@ -717,73 +717,83 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0357
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0358
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRM869.png" group-title="ST Santa Fe",LRM869 Power Max - 104.5 TV - Recreo - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0359
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---WOX.png" group-title="ST Santa Fe",WOX - 88.3 TV - Rosario - ST Santa Fe
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAM1330.png" group-title="ST Santa Fe",AM 1330 - 1330 TV - Rosario - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0360
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C3R.png" group-title="ST Santa Fe",Cadena 3 - 100.1 TV - Rosario - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0361
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LUZR.png" group-title="ST Santa Fe",Canal Luz - STV - Rosario  TV - ST Santa Fe
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---WOX.png" group-title="ST Santa Fe",WOX - 88.3 TV - Rosario - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0361
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICLA907.png" group-title="ST Santa Fe",Rosario Clasica - 90.7 TV - Rosario - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0362
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT83.png" group-title="ST Santa Fe",LT83 El Tres - 32.1TV - Rosario  TV - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0363
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT84.png" group-title="ST Santa Fe",LT84 Canal 5 - 38.1TV - Rosario  TV - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0364
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRM707.png" group-title="ST Santa Fe",LRM707 Cadena 2000 - 106.1 TV - San Guillermo - ST Santa Fe
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C3R.png" group-title="ST Santa Fe",Cadena 3 - 100.1 TV - Rosario - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0363
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RVR.png" group-title="ST Santa Fe",Radio Voz Rosario - ITV - Rosario  TV - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0364
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LUZR.png" group-title="ST Santa Fe",Canal Luz - STV - Rosario  TV - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0365
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAIRESF.png" group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT83.png" group-title="ST Santa Fe",LT83 El Tres - 32.1TV - Rosario  TV - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0366
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-MASFM.png" group-title="ST Santa Fe",Mas TV - 95.9 TV - Santa Fe - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0367
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--C3ST.png" group-title="ST Santa Fe",LRI752 Cadena 3 - 101.7 TV - Santa Fe - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0368
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--C5SF.png" group-title="ST Santa Fe",C5SF - 5 TV - Santa Fe  TV - ST Santa Fe
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT84.png" group-title="ST Santa Fe",LT84 Canal 5 - 38.1TV - Rosario  TV - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0367
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPANAME.png" group-title="ST Santa Fe",LRM421 Panamericana - 105.7 TV - Rufino - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0368
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRM707.png" group-title="ST Santa Fe",LRM707 Cadena 2000 - 106.1 TV - San Guillermo - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0369
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LITUS.png" group-title="ST Santa Fe",Litus TV - 28.1TV - Santa Fe  TV - ST Santa Fe
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAIRESF.png" group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0370
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT82.png" group-title="ST Santa Fe",LT82 Canal 13 - 29.1TV - Santa Fe  TV - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0371
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--5RTV.png" group-title="ST Santa Fe",Santa Fe Canal - 29.2TV - Santa Fe  TV - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0372
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--5RTV.png" group-title="ST Santa Fe",Santa Fe Canal - 29.2TV - Santa Fe  TV - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0373
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-VEOTV.png" group-title="ST Santa Fe",Veo Santo Tomé - 2CTV - Santo Tomé - ST Santa Fe
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISOLSPO.png" group-title="ST Santa Fe",Sol - 91.5 TV - Santa Fe - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0371
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-MASFM.png" group-title="ST Santa Fe",Mas TV - 95.9 TV - Santa Fe - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0372
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--C3ST.png" group-title="ST Santa Fe",LRI752 Cadena 3 - 101.7 TV - Santa Fe - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0373
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--C5SF.png" group-title="ST Santa Fe",C5SF - 5 TV - Santa Fe  TV - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0374
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--TVES.png" group-title="ST Santa Fe",TVES - CTV - SJ de la Esquina - ST Santa Fe
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LITUS.png" group-title="ST Santa Fe",Litus TV - 28.1TV - Santa Fe  TV - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0375
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-VERTV.png" group-title="ST Santa Fe",Ver TV - 98CTV - Venado Tuerto - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0376
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--CTVO.png" group-title="ST Santa Fe",Televideo CTVO - CTV - Villa Ocampo - ST Santa Fe
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0377
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIIVISIO.png" group-title="ST Santa Fe",Ivisión TV - CTV - Vlla Gdor Gálvez - ST Santa Fe
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LT82.png" group-title="ST Santa Fe",LT82 Canal 13 - 29.1TV - Santa Fe  TV - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0376
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--5RTV.png" group-title="ST Santa Fe",Santa Fe Canal - 29.2TV - Santa Fe  TV - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0377
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--5RTV.png" group-title="ST Santa Fe",Santa Fe Canal - 29.2TV - Santa Fe  TV - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0378
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="TF T del Fuego",Rio Grande Live - WebTV - Rio Grande - TF T del Fuego
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0379
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="TF T del Fuego",Tolhuin Live - WebTV - Tolhuin - TF T del Fuego
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0380
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-TV2US.png" group-title="TF T del Fuego",TV2 - 2 TV - Ushuaia - TF T del Fuego
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-VEOTV.png" group-title="ST Santa Fe",Veo Santo Tomé - 2CTV - Santo Tomé - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0379
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--TVES.png" group-title="ST Santa Fe",TVES - CTV - SJ de la Esquina - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0380
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-VERTV.png" group-title="ST Santa Fe",Ver TV - 98CTV - Venado Tuerto - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0381
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="TF T del Fuego",Ushuaia Live - WebTV - Ushuaia - TF T del Fuego
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0382
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRF785.png" group-title="TF T del Fuego",LRF785 RMX - 105.1 TV - Ushuaia - TF T del Fuego
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--CTVO.png" group-title="ST Santa Fe",Televideo CTVO - CTV - Villa Ocampo - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0382
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIIVISIO.png" group-title="ST Santa Fe",Ivisión TV - CTV - Vlla Gdor Gálvez - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0383
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIELPATV.png" group-title="TU Tucuman",El Palomar TV - 21.1TV - Bda del Río Salí - TU Tucuman
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0384
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-C5INT.png" group-title="TU Tucuman",Canal 5 Interior - 5 TV - Concepción - TU Tucuman
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0385
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISOLIVE.png" group-title="TU Tucuman",SOLive - WebTV - Concepción - TU Tucuman
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="TF T del Fuego",Rio Grande Live - WebTV - Rio Grande - TF T del Fuego
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0384
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="TF T del Fuego",Tolhuin Live - WebTV - Tolhuin - TF T del Fuego
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0385
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-TV2US.png" group-title="TF T del Fuego",TV2 - 2 TV - Ushuaia - TF T del Fuego
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0386
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRK458.png" group-title="TU Tucuman",LRK458 El Ocho - 8 TV - San M de Tucuman - TU Tucuman
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0387
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPANCTV.png" group-title="TU Tucuman",Panc TV - 15.1TV - San M de Tucuman - TU Tucuman
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="TF T del Fuego",Ushuaia Live - WebTV - Ushuaia - TF T del Fuego
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0387
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRF785.png" group-title="TF T del Fuego",LRF785 RMX - 105.1 TV - Ushuaia - TF T del Fuego
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0388
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI12TVTU.png" group-title="TU Tucuman",Metro 12 TV - 18.1TV - San M de Tucuman - TU Tucuman
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIELPATV.png" group-title="TU Tucuman",El Palomar TV - 21.1TV - Bda del Río Salí - TU Tucuman
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0389
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-7TVTU.png" group-title="TU Tucuman",Canal 7 Norte - 26.1TV - San M de Tucuman - TU Tucuman
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-C5INT.png" group-title="TU Tucuman",Canal 5 Interior - 5 TV - Concepción - TU Tucuman
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0390
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAMETUC.png" group-title="TU Tucuman",America Tucuman - 28.1TV - San M de Tucuman - TU Tucuman
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0391
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRK363.png" group-title="TU Tucuman",LRK363 Mi - 92.7 TV - San M de Tucuman - TU Tucuman
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISOLIVE.png" group-title="TU Tucuman",SOLive - WebTV - Concepción - TU Tucuman
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0391
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRK458.png" group-title="TU Tucuman",LRK458 El Ocho - 8 TV - San M de Tucuman - TU Tucuman
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0392
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILVOZTU.png" group-title="TU Tucuman",La Voz - 101.3 TV - San M de Tucuman - TU Tucuman
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPANCTV.png" group-title="TU Tucuman",Panc TV - 15.1TV - San M de Tucuman - TU Tucuman
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0393
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICALCHA.png" group-title="TU Tucuman",Calchaqui TCC 12 - 21.1TV - Tafi del Valle - TU Tucuman
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI12TVTU.png" group-title="TU Tucuman",Metro 12 TV - 18.1TV - San M de Tucuman - TU Tucuman
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0394
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-7TVTU.png" group-title="TU Tucuman",Canal 7 Norte - 26.1TV - San M de Tucuman - TU Tucuman
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0395
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAMETUC.png" group-title="TU Tucuman",America Tucuman - 28.1TV - San M de Tucuman - TU Tucuman
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0396
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRK363.png" group-title="TU Tucuman",LRK363 Mi - 92.7 TV - San M de Tucuman - TU Tucuman
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0397
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILVOZTU.png" group-title="TU Tucuman",La Voz - 101.3 TV - San M de Tucuman - TU Tucuman
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0398
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICALCHA.png" group-title="TU Tucuman",Calchaqui TCC 12 - 21.1TV - Tafi del Valle - TU Tucuman
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0399
