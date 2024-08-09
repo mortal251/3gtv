@@ -116,6 +116,9 @@ https://jmp2.uk/PlutoTV/6474a8c64f5ba50008683603-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6474a86917f5e100089a0c1c" tvg-id="6474a86917f5e100089a0c1c" tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG.png" tvg-chno="355" group-title="Novelas" , Pluto TV Novelas de Venezuela
 https://jmp2.uk/PlutoTV/6474a86917f5e100089a0c1c-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-665fb022f78a8500095965a9" tvg-id="665fb022f78a8500095965a9" tvg-logo="https://images.pluto.tv/channels/665fb022f78a8500095965a9/colorLogoPNG.png" tvg-chno="375" group-title="Reality" , La Academia
+https://jmp2.uk/PlutoTV/665fb022f78a8500095965a9-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" tvg-chno="380" group-title="Reality" , Pluto TV Reality
 https://jmp2.uk/PlutoTV/5dcde197f6591d0009839e04-alt.m3u8
 
@@ -283,9 +286,6 @@ https://jmp2.uk/PlutoTV/6320d80a66666000086712d7-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" tvg-chno="839" group-title="Deportes" , ITV Deportes
 https://jmp2.uk/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6144d313b34fbf0007107714" tvg-id="6144d313b34fbf0007107714" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" tvg-chno="845" group-title="Deportes" , FUEL TV
-https://jmp2.uk/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5e98b0447665f200078caded" tvg-id="5e98b0447665f200078caded" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" tvg-chno="850" group-title="Deportes" , Pluto TV Peleas
 https://jmp2.uk/PlutoTV/5e98b0447665f200078caded-alt.m3u8
